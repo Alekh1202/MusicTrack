@@ -25,16 +25,16 @@ It uses the BLoC pattern for state management.
 
 ## Demo Video
 
-[![Watch the video](https://github.com/Alu1202/full_stack_music/blob/main/Recodings.mp4)]
-
-
-
 # Dataset
 - The dataset used for tracks is sourced from Kaggle.
 
 ## Instruction
 Follow these Step to Run and Test
 # Backend
+
+https://github.com/user-attachments/assets/1627ba39-db19-4b5b-ad77-ef816897d69f
+
+
     cd backend
 
 # MySql Set up
@@ -48,5 +48,10 @@ Follow these Step to Run and Test
     cd front_end
     flutter run
 This will start app for either device ios/Android
+<img width="345" alt="Screenshot 2025-01-18 at 5 35 04 PM" src="https://github.com/user-attachments/assets/68667749-b0bc-4d66-97a7-42eb12112db3" />
+<img width="352" alt="Screenshot 2025-01-18 at 5 34 12 PM" src="https://github.com/user-attachments/assets/1c90cb66-d6e2-48b4-a22a-02fa9e557be1" />
+<img width="305" alt="Screenshot 2025-01-18 at 5 34 26 PM" src="https://github.com/user-attachments/assets/63e6e6c0-e595-41c0-8227-cf320fb77ca6" />
+<img width="342" alt="Screenshot 2025-01-18 at 5 34 45 PM" src="https://github.com/user-attachments/assets/cd1adbe6-5f54-4f3a-8177-833c566dfce3" />
+
 
 
